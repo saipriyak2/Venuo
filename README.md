@@ -19,6 +19,24 @@ A full-stack web application that enables users to discover events, purchase tic
 
 **Tools:** Docker, Keycloak, Maven, Git
 
+## 📂 Project Structure
+
+```text
+Venuo/
+├── backend/              # Spring Boot REST API
+│   ├── src/
+│   ├── pom.xml
+│   └── ...
+│
+├── frontend/             # React + TypeScript application
+│   ├── src/
+│   ├── public/
+│   ├── package.json
+│   └── ...
+│
+└── README.md
+```
+
 ## ⚡ Getting Started
 
 ### Clone the Repository
@@ -55,8 +73,14 @@ npm run dev
 * Generated QR codes for ticket validation
 * Developed a responsive React user interface
 
-## 👩‍💻 Author
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 👨‍💻 Author
 
 **Saipriya Kaja**
-
-GitHub: https://github.com/saipriyak2
+- 📧 [saipriya.k50@gmail.com](mailto:saipriya.k50@gmail.com)
+- 🔗 [GitHub](https://github.com/saipriyak2)
